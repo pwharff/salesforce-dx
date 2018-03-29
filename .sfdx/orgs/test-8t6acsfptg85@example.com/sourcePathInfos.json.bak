@@ -45,15 +45,15 @@
     [
         "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1522353623340,
-            "changeTime": 1522353623340,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "modifiedTime": 1522353313354,
+            "changeTime": 1522353313354,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1522353023794,
+            "changeTime": 1522353023794,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "size": 542,
-            "modifiedTime": 1522353766203,
-            "changeTime": 1522353766203,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1522353023793,
+            "changeTime": 1522353023793,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1522353785630,
-            "changeTime": 1522353785630,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -944,14 +944,14 @@
     [
         "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1522353334149,
+            "changeTime": 1522353334149,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234",
             "isMetadataFile": false,
-            "size": 330,
-            "modifiedTime": 1522353833519,
-            "changeTime": 1522353833519,
-            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
+            "state": "u"
         }
     ],
     [
@@ -970,14 +970,14 @@
     [
         "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1522353456467,
             "changeTime": 1522353456467,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
         }
     ],
     [
@@ -1009,14 +1009,14 @@
     [
         "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1522353351402,
+            "changeTime": 1522353351402,
+            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056",
             "isMetadataFile": false,
-            "size": 830,
-            "modifiedTime": 1522353854213,
-            "changeTime": 1522353854213,
-            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+            "state": "u"
         }
     ],
     [
@@ -1043,45 +1043,6 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1522353623343,
-            "changeTime": 1522353623343,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1522353680656,
-            "changeTime": 1522353680656,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Admin\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1522353623344,
-            "changeTime": 1522353623344,
-            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
         }
     ]
 ]
